@@ -15,7 +15,7 @@ conhecimentos em programação e desenvolvimento web.
 
 ---
 
-## 📜 Certificado
+## 📜 Certificados
 
 [Certificado Gemini Capacita+](https://github.com/waldorfb2992/waldorfb2992/blob/main/certificado%20gemini%20capacita%2B.png)
 
