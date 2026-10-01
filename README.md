@@ -15,6 +15,10 @@ conhecimentos em programação e desenvolvimento web.
 
 ---
 
+## 📜 Certificado
+
+[Certificado de Python](COLE-O-LINK-AQUI)
+
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
