@@ -11,7 +11,6 @@ conhecimentos em programação e desenvolvimento web.
 💻 Conhecimento básico em **C#**  
 🐍 Estudando **Python**  
 🌐 Desenvolvendo projetos com **HTML, CSS e JavaScript**  
-📚 Sempre buscando aprender novas tecnologias e melhorar minhas habilidades.
 
 ---
 
