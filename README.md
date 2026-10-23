@@ -18,6 +18,12 @@ conhecimentos em programação e desenvolvimento web.
 
 [Certificado Gemini Capacita+](https://github.com/waldorfb2992/waldorfb2992/blob/main/certificado%20gemini%20capacita%2B.png)
 
+[Certificado de CSS](https://github.com/waldorfb2992/waldorfb2992/blob/main/certificado%20css.png)
+
+[Certificado de HTML](https://github.com/waldorfb2992/waldorfb2992/blob/main/certificado%20html.png)
+
+[Certificado de Python](http://github.com/waldorfb2992/waldorfb2992/blob/main/certificado%20python.png)
+
 ## 🛠️ Linguagens e Tecnologias
 
 <p align="left">
